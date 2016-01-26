@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\SmartPeking\ViewPagerIndicatorLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1449d2115c59f13fa3fada36b53ab7b3084ce998">
+        <dex dex="C:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-18096dedb4f601414d69c7a8d4e27b222e099229.jar" />
+    </item>
+    <item
+        jar="C:\WorkSpace\AndroidStudioProject\SmartPeking\app\src\main\lib\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="C:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-422b5f306e76da5042643a05675f314de6ff53c9.jar" />
+    </item>
+
+</items>
