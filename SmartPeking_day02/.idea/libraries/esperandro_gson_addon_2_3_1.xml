@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="esperandro-gson-addon-2.3.1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/modules-2/files-2.1/de.devland.esperandro/esperandro-gson-addon/2.3.1/dad991821ab5e04d43434ae1a43be441df4aa2ba/esperandro-gson-addon-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/gradle/caches/modules-2/files-2.1/de.devland.esperandro/esperandro-gson-addon/2.3.1/4bc680272d4e114b1543709553dc37260ddc3590/esperandro-gson-addon-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
