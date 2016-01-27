@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Wechat-Moments-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0a2714a5465f6fc7fa1537c005233c543a5d263">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.6.6-8b45f23b0feb153d1797b976b24946e1c75afb88.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-QQ-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0e781becfda72af21895ba7278cb7c772c802944">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.6.6-d1670f399ce9b17428ae8b51256888bebe77c442.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\SmartPeking\SlidingMenuLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aeb3166227e2cb360b8657b5388cf98a56a17d35">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-97441592f3900456ee4e815b044debd177539827.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Wechat-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99655f6fe955a9d68bf6812a78427d94fc0ed798">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.6.6-0166b4fb80b6cb9f79f9129729cb721ee4b162b6.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\SmartPeking\ViewPagerIndicatorLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecfb2977a8305c76eab0c6488da6edf91778a995">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-ed37fabe16eb364d0d5970628ba4f1a089b05943.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-7702231fee02d7c3328f3d83c92404af7abcbca3.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\MobCommons.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85c6a22a097db5e86cb0702dff09a62218faa25b">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\MobCommons-78fed60463045fc746d4239929b22caf471be9ec.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-f8bb0d6ba37fa6245bcb47ad61ff9cab55992a7b.jar" />
+    </item>
+    <item
+        jar="G:\DevelopmentTool\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-8797fe7cac48ea941ff746fdce33790e5b74058a.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Facebook-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="933c5450278052d90237068b81bbd725c8f50f6d">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Facebook-2.6.6-2de9550864a636dd4d669a4cdb47e4fa08ecfbd3.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-45aae9c61053b84b190a6c390ab6c2f4e42538e8.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\MobTools.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93733eb248ee8fab2f91b1525916a45a2347b06a">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\MobTools-f34a148ecd32f2b6837862660072f42b503c1e4d.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-QZone-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6fb5e99e213a9c009aabb65b1798e749d97e4b9">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.6.6-8fbcb1a53ffec266bf2c16160cb07b5783acd1c8.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Wechat-Favorite-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9ff1d0e5bc64357d7e1a06ece1ba98c4413d63c">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Favorite-2.6.6-d3d9ffceca146afb2d307ef6007e41d8cff4c4c2.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-1cd2c74bc5a7625038c8545065aa7ac44e084c32.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Douban-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e56d181bc49f57533db91846d229153200e8b159">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Douban-2.6.6-445aef8b4a38eed0fc84ac95ca784e5da1c96c89.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\gson-2.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42a24d508f5e05bd22cc42bd2e2babd7b5466ec9">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\gson-2.2.1-c519bcd3ac43b887e1312f98fbf87cb73bfcba7c.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Core-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c700cf214153aab4859ecf64d68c37cd154f3b51">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.6.6-3ceaa306cd1eececddc339e6d5150dfb6146d87d.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Evernote-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b814401f7cf2fc72c2605f6754d939b82b8de415">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Evernote-2.6.6-de3393c4c8765b655e135aa9c2f04c52ffbd6e23.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-SinaWeibo-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c81fc0a9026d474b326f5e162dca4abba0f4d565">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.6.6-7e6c49b1b90bdaeb62f2c6ceadfac9067020d421.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Wechat-Core-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e3d86abbb18837e8931a765dd47ba9cab9ebca0">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.6.6-0628ee87e5c70310d5589a0230f4c6e7dd4ca55a.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-Renren-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4c878a5a8deed16b3a2226218d86ce1b7905fbfd">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-Renren-2.6.6-36a336afb0e1ff7de979789cb53d83b29515edc6.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\libs\ShareSDK-YouDao-2.6.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ea0c714d13500f54466a18c09b1d144e3754402">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\ShareSDK-YouDao-2.6.6-ed01fedb1cedbbbde6d5298e95a75ec2d28c696b.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-4c7e009c875c18d29f99af5bc3c271885128a4aa.jar" />
+    </item>
+    <item
+        jar="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="G:\WorkSpace\AndroidStudioProject\SmartPeking\app\build\intermediates\pre-dexed\debug\classes-6f7529060dca6eaa9d2dec947f836cf6fb1dcc32.jar" />
+    </item>
+
+</items>
